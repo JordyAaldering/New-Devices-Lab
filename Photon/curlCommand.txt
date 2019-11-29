@@ -1,0 +1,1 @@
+curl "https://api.particle.io/v1/devices/37002a000747333530373233/feedback" -d "data=" -d "access_token=724392cce6dcd72b7e1c1a9fe063a3b2726d6f6f"

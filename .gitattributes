@@ -1,6 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Ignore GCode and mark it as python to force project language as python.
+*.gcode linguist-language=python
+
 # Unity
 *.cs     text diff=csharp
 *.cginc  text diff=csharp linguist-language=csharp

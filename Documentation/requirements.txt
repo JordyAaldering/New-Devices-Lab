@@ -1,7 +1,7 @@
 requests==2.18.4
 pandas==0.24.2
 opencv_python==4.0.0.21
-Flask==0.12.3
+Flask==1.0
 numpy==1.16.4
 bottle==0.12.17
 picamera==1.13

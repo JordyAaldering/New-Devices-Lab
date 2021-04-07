@@ -3,6 +3,6 @@ pandas==0.24.2
 opencv_python==4.0.0.21
 Flask==0.12.3
 numpy==1.16.4
-bottle==0.12.17
+bottle==0.12.19
 picamera==1.13
 scikit_learn==0.21.2
